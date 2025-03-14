@@ -19,5 +19,5 @@ Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, abas de navegaçã
 *Analise do desempenho dos vendedores em relação a meta de 2024* <br>
 <img src="https://github.com/matheus-oliveir4/Relatorio_comercial_Cr-ditos_energia_solar/blob/main/p2Pulse_facility.PNG" width= 800px> <br>
 
-Segue o linlk do Drive com o video para uma melhor experiência(video ainda não inserido):
-[Clique Aqui](https://drive.google.com/drive/folders/1ocbAAoBPPHFXYbv6WStm87lzdKeBrus3?usp=sharing)
+Segue o linlk do Drive com o video para uma melhor experiência:
+[Clique Aqui](https://drive.google.com/drive/folders/1Ry6nJyxibk5hTRzYXYHcA2quHS4z-Als?usp=drive_link)
