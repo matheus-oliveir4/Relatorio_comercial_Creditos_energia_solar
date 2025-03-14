@@ -6,7 +6,9 @@
 - Potência comercializado <br>
 - Indicadores de metas dos representantes comerciais <br>
 - Analises Horizontais e verticais acerca do faturamento e potência comercializados. <br>
-- Estados em que a empresa já prestou seuss serviços
+- Quantidade de clientes alocados por usinas <br>
+- Quantidae de usinas em geração
+- Porcentagem de desconto em propostas fechadas.
 Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, abas de navegação, uso de parametros para analises de medidas especificas entre outras atribuições do Power BI. <br>
 **Observação: Os dados fictícios foram usados.** <br>
 
