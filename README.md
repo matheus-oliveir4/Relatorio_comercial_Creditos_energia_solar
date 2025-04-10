@@ -10,7 +10,7 @@
 - Quantidae de usinas em geração
 - Porcentagem de desconto em propostas fechadas.
 Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, abas de navegação, uso de parametros para analises de medidas especificas entre outras atribuições do Power BI. <br>
-**Observação: Foram usados dados fictícios .** <br>
+**Observação: Dados Alterados .** <br>
 
 *Gestão Geral* <br>
 <img src="https://github.com/matheus-oliveir4/Relatorio_comercial_Cr-ditos_energia_solar/blob/main/p1Pulse_facility.PNG" width= 799px>
