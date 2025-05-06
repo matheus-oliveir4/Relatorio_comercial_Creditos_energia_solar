@@ -14,7 +14,6 @@ Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, abas de navegaçã
 
 *Gestão Geral* <br>
 <img src="https://github.com/matheus-oliveir4/Relatorio_comercial_Cr-ditos_energia_solar/blob/main/p1Pulse_facility.PNG" width= 799px>
-<img src="https://github.com/matheus-oliveir4/Relatorio_comercial_Cr-ditos_energia_solar/blob/main/p3_medidas_Pulse_facility.PNG" width= 156.5px>
 <br>
 *Analise do desempenho dos vendedores em relação a meta de 2024* <br>
 <img src="https://github.com/matheus-oliveir4/Relatorio_comercial_Cr-ditos_energia_solar/blob/main/p2Pulse_facility.PNG" width= 800px> <br>
