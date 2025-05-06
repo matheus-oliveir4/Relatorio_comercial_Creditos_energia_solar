@@ -8,8 +8,9 @@
 - Analises Horizontais e verticais acerca do faturamento e potência comercializados. <br>
 - Quantidade de clientes alocados por usinas <br>
 - Quantidae de usinas em geração
-- Porcentagem de desconto em propostas fechadas.
-Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, abas de navegação, uso de parametros para analises de medidas especificas entre outras atribuições do Power BI. <br>
+- Porcentagem de desconto em propostas fechadas. <br>
+- Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, relacionamentos, abas de navegação, uso de parametros para analises de medidas especificas entre outras atribuições do Power BI.<br>
+
 **Observação: Dados mascarados para manter a integridade da empresa .** <br>
 
 *Gestão Geral* <br>
