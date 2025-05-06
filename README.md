@@ -1,4 +1,4 @@
-# Relatorio_comercial_Cr-ditos_energia_solar
+# Relatorio_comercial_Créditos_energia_solar
 
 *Relatório voltado para o setor comercial no ramo de energia solar do estado do Ceará*. <br>
 - Pontos Aborddados no Relatorio: <br>
